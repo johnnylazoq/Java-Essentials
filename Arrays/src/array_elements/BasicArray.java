@@ -6,11 +6,10 @@ public class BasicArray {
 
 	public static void main(String[] args) {
 
-	// Create constant variables called LIMIT and MULTIPLE, assign the number 15 and 10 respectively.
 	final int ARRAYSIZE = 15;
 	final int MULTIPLE = 10;
 		
-	// Create a new array object that can store a list of values of size 15
+	// Create a new array object that can store a list of values of size ARRAYSIZE
 	
 	int[] valuesList = new int[ARRAYSIZE];
 	
