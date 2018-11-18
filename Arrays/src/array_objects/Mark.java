@@ -1,5 +1,5 @@
 package array_objects;
-
+//Class Mark
 public class Mark {
 
 	private String name;
