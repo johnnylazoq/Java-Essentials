@@ -9,8 +9,6 @@ public class BasicArray {
 	// Create constant variables called LIMIT and MULTIPLE, assign the number 15 and 10 respectively.
 	final int ARRAYSIZE = 15;
 	final int MULTIPLE = 10;
-	
-		
 		
 	// Create a new array object that can store a list of values of size 15
 	
