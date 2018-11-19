@@ -17,6 +17,7 @@ public class Mark {
 	
 	public void setName(String grade) {
 		name = grade;
+		
 	}
 	
 	public void setLowerBound(int cutoff){
