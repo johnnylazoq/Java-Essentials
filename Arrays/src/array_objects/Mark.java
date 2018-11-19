@@ -14,14 +14,14 @@ public class Mark {
 	public String toString(){
 		return name + "\t" + lowerBound;
 	}
-	
+	// construct getter and setters
 	public void setName(String grade) {
 		name = grade;
 		
 	}
 	
 	public void setLowerBound(int cutoff){
-	lowerBound = cutoff;
+		lowerBound = cutoff;
 	}	
 	
 	public String getName() {
